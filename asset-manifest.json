@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-website-design/static/js/main.35e44767.js",
+    "main.js": "/react-website-design/static/js/main.be45deac.js",
     "static/media/marvin.png": "/react-website-design/static/media/marvin.7c570b81728af36583d6.png",
     "index.html": "/react-website-design/index.html",
-    "main.35e44767.js.map": "/react-website-design/static/js/main.35e44767.js.map"
+    "main.be45deac.js.map": "/react-website-design/static/js/main.be45deac.js.map"
   },
   "entrypoints": [
-    "static/js/main.35e44767.js"
+    "static/js/main.be45deac.js"
   ]
 }
