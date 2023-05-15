@@ -45,9 +45,10 @@ const Button = styled.button`
      border: 2px solid white;
      padding: 10px 15px;
      background-color: yellow;
-     color: black;
+     color: gray;
      font-wight: bold;
      border-radius: 10px;
+     font-family: roboto;
      cursor: pointer;
 `;
 
@@ -68,7 +69,7 @@ const Navbar = () => {
         
         </Left>
       <Button>
-        Click here..
+        Join our Team
       </Button>
       </Wrapper>
       </Container>
