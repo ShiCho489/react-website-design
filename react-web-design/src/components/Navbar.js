@@ -57,7 +57,7 @@ const Navbar = () => {
     <>
     <Container>
       <Wrapper>
-        <Left><Logo> Digita</Logo>
+        <Left><Logo> Digify</Logo>
         <Menu>
           <MenuItem>Home</MenuItem>
           <MenuItem>Products & Services</MenuItem>
